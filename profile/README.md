@@ -8,7 +8,7 @@
 </div>
 
 
-
+I'm still learning to these things, so expect some complicated cherry-picks :3
 
 
 Want to communicate?

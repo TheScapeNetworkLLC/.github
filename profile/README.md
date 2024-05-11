@@ -1,4 +1,4 @@
-## Isaiah's Playground: A place where I began playing with my things.
+## Isaiah's Playground: A place where I began playing with my gadgets.
 - 📫 How to reach me: telegram.me/isaiahplaygroundch
 
 ## My stats
@@ -7,7 +7,7 @@
 </div>
 
 
-I'm still learning to these things, so expect some complicated cherry-picks :3
+I'm still learning to these things, so expect some complicated cherry-picks and commits :3
 
 
 Want to communicate?

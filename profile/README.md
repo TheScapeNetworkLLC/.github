@@ -5,7 +5,6 @@
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=isaiahscape&&show_icons=true&theme=react" alt="isaiahscape" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaiahscape&&layout=compact&theme=react&langs_count=6" />
 </div>
 
 ## Want to communicate?

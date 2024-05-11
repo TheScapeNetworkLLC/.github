@@ -11,7 +11,7 @@
 
 
 
-## Want to communicate?
+# Want to communicate?
 [![Telegram badge](https://img.shields.io/badge/Isaiah-30302f?style=flat&logo=telegram)](https://t.me/isaiahscape)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=isaiahscape&label=Visitors&countColor=%23697689&style=plastic)
 

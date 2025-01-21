@@ -1,5 +1,5 @@
-## Isaiah's Playground: A place where I began playing with my gadgets.
-- 📫 How to reach me: telegram.me/isaiahplaygroundch
+## The Scape Network: it's just a useless organization.
+- 📫 How to reach us: telegram.me/TheScapeCommunity
 
 ## My stats
 <div>

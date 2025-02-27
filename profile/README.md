@@ -6,8 +6,7 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=isaiahscape&&show_icons=true&theme=react" alt="isaiahscape" />
 </div>
 
-
-I'm still learning to these things, so expect some complicated cherry-picks and commits :3
+Expect some complicated cherry-picks and commits :3
 
 
 Want to communicate?
